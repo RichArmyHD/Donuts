@@ -1,0 +1,9 @@
+<distributionManagement>
+   <repository>
+     <id>github</id>
+     <name>Donuts</name>
+     <url>https://RichArmyHD.pkg.github.com/OWNER/REPOSITORY</url>
+   </repository>
+</distributionManagement>
+
+$ mvn deploy
